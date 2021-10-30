@@ -1,0 +1,14 @@
+{
+  "name": "pat/zoara-test",
+  "description": "Library zoara test",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Patrick",
+      "email": "patnomenjanahary@gmail.com"
+    }
+  ],
+  "require": {
+    "php" : ">=5.6"
+  }
+}
